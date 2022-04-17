@@ -20,3 +20,9 @@ Link to the dataset - https://www.kaggle.com/competitions/cassandra-udyam-2022/d
 
 Link to Final presentation slides on canva - https://www.canva.com/design/DAE9kYtOh4I/ewkPV5L1gdrpSoMIfRGwFA/view#4 ( Will add the slides later to the repository ) 
 
+## The PS and the Solution ;
+
+For PS , refer to the Kaggle page whose link is given above . Roughly explaining , we were required to predict when an invoice would be paid back , in number of days , based on the data given to us .
+
+For the explanation of out solution , best refer the slides , since it explains everything about how we solved , I'll add a few important and noteworthy slides in this readme too .
+
