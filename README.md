@@ -13,3 +13,10 @@ Our team secured 3rd position in "CASSANDRA" in 2022 , the Data Science event he
 (Link to leaderboard - https://www.udyamfest.com/leaderboard (link may not work after 2022) )
 
 Link to the code - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science/blob/main/Cassandra_PAV_BHU_JEE.ipynb (uploaded to this repository )
+
+Link to the competition - https://www.kaggle.com/competitions/cassandra-udyam-2022/overview
+
+Link to the dataset - https://www.kaggle.com/competitions/cassandra-udyam-2022/data (I've also added a copy of the dataset to this repository in case this dosen't work )
+
+Link to Final presentation slides on canva - https://www.canva.com/design/DAE9kYtOh4I/ewkPV5L1gdrpSoMIfRGwFA/view#4 ( Will add the slides later to the repository ) 
+
