@@ -20,9 +20,27 @@ Link to the dataset - https://www.kaggle.com/competitions/cassandra-udyam-2022/d
 
 Link to Final presentation slides on canva - https://www.canva.com/design/DAE9kYtOh4I/ewkPV5L1gdrpSoMIfRGwFA/view#4 ( Will add the slides later to the repository ) 
 
-## The PS and the Solution ;
+## The PS and the Solution :
 
 For PS , refer to the Kaggle page whose link is given above . Roughly explaining , we were required to predict when an invoice would be paid back , in number of days , based on the data given to us .
 
 For the explanation of out solution , best refer the slides , since it explains everything about how we solved , I'll add a few important and noteworthy slides in this readme too .
+
+## Noteworthy slides :
+
+The difference feature : 
+
+![image](https://user-images.githubusercontent.com/86561124/163711648-c6367f06-1571-4bf5-bb6c-8773f9062c5c.png)
+
+Fraud detection in invoices using this dataset :
+
+![image](https://user-images.githubusercontent.com/86561124/163711703-4c4e7ba2-8dab-4ea3-9e4b-a5472ea8e966.png)
+
+Mutual Information Scores (and Pandas Profiling report correlation) :
+
+![image](https://user-images.githubusercontent.com/86561124/163711741-f46a67d4-dfa0-4889-94b4-19dc4884c22b.png)
+
+Usage of K-Mean Clustering in predictions :
+
+![image](https://user-images.githubusercontent.com/86561124/163711779-c7bde660-0801-468e-89b6-3fe9cd407869.png)
 
