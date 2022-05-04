@@ -5,6 +5,12 @@ Solution to cassandra 22 , data science event
 
 * Team Name - PAV-BHU-JEE (P for Parthasarthii , A for Ayush , V for Vishal ) 
 * Team Members - Ayush Agarwal (me) , Vishal Gosain , Parthasarthii Agarwal 
+* Event Name - CASSANDRA 
+* Fest Name - UDYAM 22
+* Position - 3rd 
+* Skills - Data Science 
+* Tools - Standard Data Science and Machine Learning Tools 
+* Slides [IMPORTANT] - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science/blob/main/CASSANDRA_PAVBHUJEE'%2022.pdf
 
 Our team secured 3rd position in "CASSANDRA" in 2022 , the Data Science event held under "Udyam" , the Electronics Department fest of IIT BHU . This repository contains our work for the event .
 
@@ -18,7 +24,7 @@ Link to the competition - https://www.kaggle.com/competitions/cassandra-udyam-20
 
 Link to the dataset - https://www.kaggle.com/competitions/cassandra-udyam-2022/data (I've also added a copy of the dataset to this repository in case this dosen't work )
 
-Link to Final presentation slides on canva - https://www.canva.com/design/DAE9kYtOh4I/ewkPV5L1gdrpSoMIfRGwFA/view#4 ( Will add the slides later to the repository ) 
+Link to Final presentation slides on canva - https://www.canva.com/design/DAE9kYtOh4I/ewkPV5L1gdrpSoMIfRGwFA/view#4 ( Can refer to the slides in this repository too if link dosent work ) 
 
 ## The PS and the Solution :
 
