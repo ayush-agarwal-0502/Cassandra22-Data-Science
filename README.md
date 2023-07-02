@@ -1,4 +1,5 @@
 # Cassandra22-Data-Science
+Invoice payement time prediction model 
 Solution to cassandra 22 , data science event 
 
 ## Introduction :
